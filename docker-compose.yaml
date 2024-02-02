@@ -11,6 +11,13 @@
 ## 1. Create a base Pod Manifest using the kubectl run command with appropriate flags.
 
 # kubectl create namespace dev-env
+# $ kompose convert -f compose.yaml
+
+# $ kubectl apply -f .
+
+# $ kubectl get po
+
+
 
 # kubectl get namespace
 
